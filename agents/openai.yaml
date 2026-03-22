@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Agent Manager"
+  short_description: "Manage validated Codex agent role files"
+  default_prompt: "Use $codex-agent-manager to add, validate, list, or remove agent role files under CODEX_HOME."
